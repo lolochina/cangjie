@@ -1,0 +1,2 @@
+cjc hello.cj -o hello //创建hello.exe可执行代码
+.\hello.exe //执行hello.exe文件输出hello.cj代码
